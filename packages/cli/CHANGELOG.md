@@ -1,5 +1,11 @@
 # @c15t/cli
 
+## 1.6.2
+
+### Patch Changes
+
+- 2b99f94: fix: correct spelling of "GitHub" in CLI commands
+
 ## 1.6.1
 
 ### Patch Changes
