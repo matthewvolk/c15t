@@ -1,5 +1,21 @@
 # c15t
 
+## 1.7.0-canary-20251003193535
+
+### Minor Changes
+
+- 0c80bed: feat: added script loader, deprecated tracking blocker
+- a58909c: feat(react): added frame component for conditionally rendering content with a placeholder e.g. iframes
+  feat(core): added headless iframe blocking with the data-src & data-category attributes
+  fix(react): improved button hover transitions when changing theme
+
+### Patch Changes
+
+- Updated dependencies [0c80bed]
+- Updated dependencies [a58909c]
+  - @c15t/translations@1.7.0-canary-20251003193535
+  - @c15t/backend@1.7.0-canary-20251003193535
+
 ## 1.6.0
 
 ### Minor Changes

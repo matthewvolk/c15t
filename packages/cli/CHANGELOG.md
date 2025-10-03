@@ -1,5 +1,15 @@
 # @c15t/cli
 
+## 1.7.0-canary-20251003193535
+
+### Patch Changes
+
+- e9a4a50: fix: correct spelling of "GitHub" in CLI commands
+- Updated dependencies [0c80bed]
+- Updated dependencies [a58909c]
+  - @c15t/react@1.7.0-canary-20251003193535
+  - @c15t/backend@1.7.0-canary-20251003193535
+
 ## 1.6.1
 
 ### Patch Changes
